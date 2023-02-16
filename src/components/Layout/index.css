@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.layout-content-container {
+  padding: 120px;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

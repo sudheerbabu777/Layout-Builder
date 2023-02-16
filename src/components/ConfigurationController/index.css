@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.layout-container {
+  background-color: #475569;
+  height: 20%;
+  padding: 8px;
+}
+
+.layout-title {
+  font-family: 'Roboto';
+  font-size: 44px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.label {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  color: #ffffff;
+  margin-left: 20px;
+}
+
+.check-box-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.list-container {
+  margin-left: 70px;
+}
